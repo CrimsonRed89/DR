@@ -58,7 +58,7 @@ Performed segmentation tasks to identify and delineate specific regions in fundu
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FIVES-Fundus-Analysis.git
+   git clone https://github.com/yourusername/FIVES-Fundus-Analysis.git](https://github.com/CrimsonRed89/Diabetic-Retinopathy-Segmentation-Classification-FIVES-DATASET.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -71,7 +71,7 @@ Performed segmentation tasks to identify and delineate specific regions in fundu
 4. Run the scripts for classification or segmentation tasks:
    ```bash
    python classification.py
-   python segmentation.py
+   python <choose segmentation model>.py
    ```
 
 ---
